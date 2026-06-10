@@ -55,6 +55,7 @@ url: "https://zgr2788.github.io" # the base hostname & protocol for your site
 #
 
 permalink: /:title/
+future: true
 
 
 # The release of Jekyll Now that you're using
