@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Variational Learning of Disentangled Representations"
+date:   2026-07-06 22:22:22 +00:00
+image: /images/discovr.jpg
+categories: ladder
+author: "Ozgur Beker" 
+authors: "Yuli Slavutsky*, <strong> Ozgur Beker* <\strong>, David Blei, Bianca Dumitrascu"
+venue: "ICML"
+code: https://github.com/Computational-Morphogenomics-Group/DISCoVeR
+paper: https://icml.cc/virtual/2026/poster/62423
+arxiv: https://arxiv.org/abs/2506.17182
+---
+
+This is the description for a sample post. Replace it as you like.

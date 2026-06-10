@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Brendo: an open resource for uniquely transcribed genes in brain endothelial cells"
+date:   2025-10-26 22:22:22 +00:00
+image: /images/brendo.png
+categories: old
+author: "Ozgur Beker"
+authors: "<strong> Ozgur Beker <\strong>, Fereshteh Ramezani Khorsand, Ogun Adebali, Nur Mustafaoglu" 
+code: https://github.com/CompGenomeLab/brendo
+website: https://brendo.sabanciuniv.edu/
+arxiv: https://www.biorxiv.org/content/10.1101/2025.10.25.684508v1
+venue: "bioRxiv"
+---
+
+This is the description for a sample post. Replace it as you like.

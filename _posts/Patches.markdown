@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Patches: A Representation Learning Framework for Decoding Shared and Condition-Specific Transcriptional Programs in Wound Healing"
+date:   2024-12-24 00:00:00 +00:00
+image: /images/patches.jpg
+categories: ladder
+author: "Ozgur Beker"
+authors: <strong> Ozgur Beker <\strong>, Simon Van Deursen, Michel Tarnow, Dreyton Amador, Jonathan Chin Cheong, Jose Francisco Pomarino Nima ProfileMark D. Robinson, Yvon Woappi, Bianca Dumitrascu
+venue: "bioRxiv" 
+arxiv: https://www.biorxiv.org/content/10.1101/2024.12.23.630186v2 
+code: https://github.com/Computational-Morphogenomics-Group/Ladder
+website: https://ladder.readthedocs.io/en/latest/
+---
+
+This is the description for a sample post. Replace it as you like.
