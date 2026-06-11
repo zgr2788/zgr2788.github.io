@@ -10,5 +10,3 @@ code: https://github.com/Papatheodorou-Group/CATD_snakemake
 paper: https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae048/7634289
 venue: "Bioinformatics Advances"
 ---
-
-This is the description for a sample post. Replace it as you like.
