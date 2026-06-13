@@ -2,7 +2,7 @@
 layout: post
 title:  "Variational Learning of Disentangled Representations"
 date:   2026-07-06 22:22:22 +00:00
-image: /images/discovr.jpg
+image: /tn/images/discovr.jpg
 categories: ladder
 author: "Ozgur Beker" 
 authors: "Yuli Slavutsky*, <strong>Ozgur Beker*</strong>, David Blei, Bianca Dumitrascu"

@@ -2,7 +2,7 @@
 layout: post
 title:  "Single-cell morphodynamics predict cell fate decisions during mucociliary epithelial differentiation"
 date:   2026-05-11 00:00:00 +00:00
-image: /images/sc_morphodynamics.png
+image: /tn/images/sc_morphodynamics.png
 categories: morpho
 author: "Ozgur Beker"
 authors: "Mari Tolonen, Ziwei Xu, <strong>Ozgur Beker</strong>, Varun Kapoor, Bianca Dumitrascu & Jakub Sedzinski"

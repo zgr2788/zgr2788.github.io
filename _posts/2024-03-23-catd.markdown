@@ -2,7 +2,7 @@
 layout: post
 title:  "CATD: a reproducible pipeline for selecting cell-type deconvolution methods across tissues"
 date:   2024-03-23 22:22:22 +00:00
-image: /images/catd.png
+image: /tn/images/catd.png
 categories: old
 author: "Ozgur Beker"
 authors: " Anna Vathrakokoili Pournara , Zhichao Miao , <strong>Ozgur Yilimaz Beker</strong>, Nadja Nolte , Alvis Brazma , Irene Papatheodorou"

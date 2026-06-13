@@ -2,7 +2,7 @@
 layout: post
 title:  "Patches: A Representation Learning Framework for Decoding Shared and Condition-Specific Transcriptional Programs in Wound Healing"
 date:   2024-12-24 00:00:00 +00:00
-image: /images/patches.jpg
+image: /tn/images/patches.jpg
 categories: ladder
 author: "Ozgur Beker"
 authors: <strong>Ozgur Beker</strong>, Simon Van Deursen, Michel Tarnow, Dreyton Amador, Jonathan Chin Cheong, Jose Francisco Pomarino Nima ProfileMark D. Robinson, Yvon Woappi, Bianca Dumitrascu
